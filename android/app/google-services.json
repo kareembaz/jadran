@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "849341046941",
+    "project_id": "jadran-bec39",
+    "storage_bucket": "jadran-bec39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849341046941:android:c1eb1b70c94ea11b367474",
+        "android_client_info": {
+          "package_name": "com.example.jadran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzWEhYbeLG39ghr-hi009UBDPwNdID3Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
